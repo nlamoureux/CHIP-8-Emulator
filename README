@@ -1,3 +1,4 @@
 CHIP-8 emulator, coded in C++. Big shout out to Austin Morlan for his helpful guide posted here: https://austinmorlan.com/posts/chip8_emulator/
 It was a huge help to get me pointed in the right direction. It runs visuals but you need to have SDL2 installed on your IDE in order for this program
-to compile and function. This emulator can run simple games like PONG and TETRIS. Coded on the Clion IDE.
+to compile and function. This emulator can run simple games like PONG and TETRIS. Coded on the Clion IDE. This file is not an executable, you will have plug
+it into your IDE or compiler and run it from there.
